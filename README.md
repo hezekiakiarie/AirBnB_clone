@@ -131,5 +131,5 @@ HBnB - version 9.6
 To all the peers that contribuited with their knowledge
 
 ### Authors :fountain_pen:
-*Nurye aragaw
-*mwangi kiarie
+*Nurye aragaw and 
+*kezekia kiarie
